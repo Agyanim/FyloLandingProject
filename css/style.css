@@ -310,7 +310,7 @@ span {
     padding: 10px 100px;
   }
   .email {
-    padding: 10px 80px 10px 20px;
+    padding: 10px 80px 10px 10px;
     margin-bottom: 0.5em;
   }
 
@@ -409,7 +409,7 @@ span {
     margin-left: 0.2em;
   }
   .email2 {
-    padding: 10px 120px 10px 5px;
+    padding: 10px 100px 10px 5px;
     margin-top: 20px;
   }
 
